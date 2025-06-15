@@ -9,8 +9,6 @@ Empatha is a voice-enabled interface that helps users generate daily digital too
 ---
 
 
----
-
 ## 🛠 Toolstack Used
 
 - React (with Vite)
