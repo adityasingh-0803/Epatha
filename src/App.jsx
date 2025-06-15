@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import PromptInput from "./components/PromptInput";
-import ToolOutput from "./components/ToolOutput";
 import { detectIntent } from "./utils/detectIntent";
 import ReminderApp from "./templates/ReminderApp";
 import PlannerApp from "./templates/PlannerApp";
@@ -34,3 +33,4 @@ export default function App() {
     </main>
   );
 }
+
