@@ -1,0 +1,5 @@
+npm create vite@latest empatha -- --template react
+cd empatha
+npm install
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
